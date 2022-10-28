@@ -1,0 +1,23 @@
+.color-contacto{
+    background-color: #f1ae80;
+}
+
+.color-formulario{
+    background-color: #f19288;
+}
+
+.box1{
+    display: flex;
+}
+
+.mail{
+    width: 100%;
+    text-align: center;
+    margin-right: 1vh;
+}
+
+.password{
+    width: 100%;
+    text-align: center;
+    margin-left: 1vh;
+}
